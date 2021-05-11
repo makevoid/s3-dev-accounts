@@ -1,0 +1,6 @@
+:accounts:
+  # list all users / bucket names here
+  - s3-dev-account-1234
+  - s3-dev-account-2345
+  - s3-dev-account-3467
+  # ...
